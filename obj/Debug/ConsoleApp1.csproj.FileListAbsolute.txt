@@ -5,3 +5,10 @@ C:\Users\ratchanoka\Downloads\AppmanTesting\ConsoleApp1\obj\Debug\ConsoleApp1.cs
 C:\Users\ratchanoka\Downloads\AppmanTesting\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\ratchanoka\Downloads\AppmanTesting\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\ratchanoka\Downloads\AppmanTesting\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\bin\Debug\ConsoleApp1.exe.config
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\bin\Debug\ConsoleApp1.exe
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\bin\Debug\ConsoleApp1.pdb
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\obj\Debug\ConsoleApp1.exe
+C:\Users\BbeeHarry\Downloads\test_appman\testth\string2int\obj\Debug\ConsoleApp1.pdb
