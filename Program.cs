@@ -19,7 +19,51 @@ namespace ConsoleApp1
                 List<int> val = new List<int>();
                 foreach (var item in cell)
                 {
-                    int a = string2int.getIndexofNumber(item.ToString());
+                    int a = 0;
+                    if (item.ToString() == "0")
+                    {
+                        a = 0;
+                    }
+                    else if (item.ToString() == "1")
+                    {
+                        a = 1;
+                    }
+                    else if (item.ToString() == "2")
+                    {
+                        a = 2;
+                    }
+                    else if (item.ToString() == "3")
+                    {
+                        a = 3;
+                    }
+                    else if (item.ToString() == "4")
+                    {
+                        a = 4;
+                    }
+                    else if (item.ToString() == "5")
+                    {
+                        a = 5;
+                    }
+                    else if (item.ToString() == "6")
+                    {
+                        a = 6;
+                    }
+                    else if (item.ToString() == "7")
+                    {
+                        a = 7;
+                    }
+                    else if (item.ToString() == "8")
+                    {
+                        a = 8;
+                    }
+                    else if (item.ToString() == "9")
+                    {
+                        a = 9;
+                    }
+                    else 
+                    {
+                        a = -1;
+                    }
                     if (a > -1)
                     {
                         val.Add(a);
@@ -40,6 +84,8 @@ namespace ConsoleApp1
                 throw;
             }
         }
+        #region mark
+        /*
         public class string2int
         {
 
@@ -64,10 +110,9 @@ namespace ConsoleApp1
 
 
             }
-        
+
         }
-        #region mark
-        /*//List<string> val = new List<string>();
+        //List<string> val = new List<string>();
                 //string res = string.Empty;
                 //for (int i = 0; i < cell.Length; i++)
                 //{
